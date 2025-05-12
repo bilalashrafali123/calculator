@@ -1,12 +1,12 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
-.calculator{
+.calculator {
     display: flex;
     justify-content: center;
     margin-top: 40px;
@@ -14,7 +14,7 @@
     
 }
 
-td{
+td {
     border: 1px solid #888;
     padding: 40px;
     text-align: right;
@@ -22,18 +22,18 @@ td{
     font-size: 20px;
 }
 
-.red{
-    background-color: rgb(251, 31, 31);
+.text-red{
+    background-color:red;
 }
 
-.text-grey{
+.text-grey {
     background-color: rgb(163, 163, 163);
 }
 
-.table-data-color{
+.table-data-color {
     background-color: rgba(240, 235, 235, 0.973);
 }
 
-.display{
+.display {
     background-color: rgb(251, 251, 237);
 }
