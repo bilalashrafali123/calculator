@@ -15,8 +15,7 @@ body{
 }
 
 .calculator-table {
-    margin-top: 32px;
-    border-collapse: collapse;
+     border-collapse: collapse;
 }
 
 td {
